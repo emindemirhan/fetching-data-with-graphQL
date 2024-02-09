@@ -1,4 +1,4 @@
-# Multi-language Support with Redux Intl
+# Fetching-data-with-graphQL
 
 ## Installing
 
